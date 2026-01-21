@@ -8,7 +8,7 @@ export default {
         extend: {
             colors: {
                 page: "#000000",
-                accent: "#f97316", // Orange for PageCraft
+                accent: "#be123c", // Rose-700 for a sophisticated editorial feel
             },
             fontFamily: {
                 serif: ['Playfair Display', 'serif'],
