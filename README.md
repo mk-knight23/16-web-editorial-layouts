@@ -1,4 +1,4 @@
-# 27-react-pages-demo
+# 16-web-react-pages-demo
 
 ✨ A high-performance, developer-first React demonstration showcasing advanced page layout patterns, sophisticated component architectures, and a lightning-fast Vite-powered pipeline.
 
@@ -20,23 +20,16 @@
 npm install
 npm run dev
 ```
+
 ## Documentation
 - [Architecture Overview](docs/ARCHITECTURE.md)
 - [Design System](docs/DESIGN.md)
-- [Deployment Guide](docs/DEPLOY.md)
 
-## Live Deployment
-- **GitHub Pages**: [https://mk-knight23.github.io/27-react-pages-demo/](https://mk-knight23.github.io/27-react-pages-demo/)
-- **Status**: 🟢 Live
-- **Modernized**: 2026-01-23
+## AI-Assisted Development
+This project is configured with [Kilo Code Reviewer](https://kilo.code/) for AI-powered code reviews on all pull requests.
 
 ---
-*Maintained by [Kazi Musharraf](https://github.com/mk-knight23)*
+*Maintained by [Kazi Musharraf](https://github.com/mkazi/)*
 
-## 🌐 Live Deployments
-
-- Vercel: https://27-react-pages-demo.vercel.app
-- GitHub Pages: https://mk-knight23.github.io/27-react-pages-demo/
-
-Status: 🟢 Deployments Live  
-Last Updated: 2026-01-23
+Status: 🟢 Project Active
+Last Updated: 2026-02-01
