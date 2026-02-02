@@ -1,5 +1,5 @@
 {
-  "name": "pagecraft-editorial-demo",
+  "name": "16-web-editorial-layouts",
   "private": false,
   "version": "2.1.0",
   "description": "PageCraft - Editorial design and layout demonstration hub showcasing modern React 19 patterns with Vite 6 and Tailwind CSS v4.",
@@ -22,9 +22,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mk-knight23/pagecraft-editorial-demo.git"
+    "url": "git+https://github.com/mk-knight23/16-web-editorial-layouts.git"
   },
-  "homepage": "https://mk-knight23.github.io/pagecraft-editorial-demo/",
+  "homepage": "https://mk-knight23.github.io/16-web-editorial-layouts/",
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.29.2",

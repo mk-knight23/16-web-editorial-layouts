@@ -1,6 +1,6 @@
-# PageCraft Editorial Demo
+# Web Editorial Layouts
 
-✨ A high-performance, developer-first React demonstration showcasing advanced page layout patterns, sophisticated component architectures, and a lightning-fast Vite-powered pipeline.
+✨ A high-performance, developer-first React demonstration showcasing advanced editorial layout patterns, sophisticated component architectures, and a lightning-fast Vite-powered pipeline.
 
 ## Features
 - 📄 Professional Multi-Page UI Foundation
@@ -30,7 +30,7 @@ npm run dev
 This project is configured with [Kilo Code Reviewer](https://kilo.code/) for AI-powered code reviews on all pull requests.
 
 ---
-*Maintained by [Kazi Musharraf](https://github.com/mkazi/)*
+*Maintained by [Kazi Musharraf](https://github.com/mk-knight23)*
 
 Status: 🟢 Project Active
 Last Updated: 2026-02-01
