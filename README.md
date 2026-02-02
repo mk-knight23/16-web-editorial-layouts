@@ -5,6 +5,19 @@
 ## 🚀 Live Demo
 **[View Live on Vercel](https://16-web-editorial-layouts.vercel.app)**
 
+## 📦 Deployment
+
+### Render (One-Click Deploy)
+This repository includes a `render.yaml` blueprint for automated deployment:
+1. Visit [dashboard.render.com](https://dashboard.render.com)
+2. Click "New +" → "Blueprint"
+3. Connect repository: `mk-knight23/16-web-editorial-layouts`
+4. Render will auto-detect and apply the blueprint configuration
+
+### Manual Deployment
+- **Build Command**: `npm run build`
+- **Publish Directory**: `dist`
+
 ## Features
 - 📄 Professional Multi-Page UI Foundation
 - ⚛️ Sophisticated React 19 Component Architecture
