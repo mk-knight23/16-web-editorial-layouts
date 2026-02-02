@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: 16-web-editorial-layouts
+    env: static
+    buildCommand: npm run build
+    publishPath: dist
+    envVars:
+      - key: NODE_VERSION
+        value: 22
