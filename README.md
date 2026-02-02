@@ -1,6 +1,9 @@
-# Web Editorial Layouts
+# 16 Web Editorial Layouts
 
 ✨ A high-performance, developer-first React demonstration showcasing advanced editorial layout patterns, sophisticated component architectures, and a lightning-fast Vite-powered pipeline.
+
+## 🚀 Live Demo
+**[View Live on Vercel](https://16-web-editorial-layouts.vercel.app)**
 
 ## Features
 - 📄 Professional Multi-Page UI Foundation
