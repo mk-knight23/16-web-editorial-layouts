@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "editorial-layouts",
     "public": "dist",
     "ignore": [
       "firebase.json",
