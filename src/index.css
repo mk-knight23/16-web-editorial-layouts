@@ -1,22 +1,26 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 @theme {
-    --color-accent: #000000;
+  --color-accent: #000000;
 }
 
 @layer base {
-    body {
-        @apply bg-white text-slate-900 antialiased selection:bg-black selection:text-white;
-        font-family: 'Inter', system-ui, -apple-system, sans-serif;
-    }
+  body {
+    @apply bg-white text-slate-900 antialiased selection:bg-black selection:text-white;
+    font-family:
+      'Inter',
+      system-ui,
+      -apple-system,
+      sans-serif;
+  }
 }
 
 @layer components {
-    .editorial-stroke {
-        @apply border-b border-black/10 transition-all hover:border-black;
-    }
+  .editorial-stroke {
+    @apply border-b border-black/10 transition-all hover:border-black;
+  }
 
-    .drop-cap::first-letter {
-        @apply float-left text-7xl font-black mr-4 leading-none uppercase font-serif;
-    }
+  .drop-cap::first-letter {
+    @apply float-left text-7xl font-black mr-4 leading-none uppercase font-serif;
+  }
 }
