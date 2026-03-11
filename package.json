@@ -5,6 +5,7 @@
   "description": "PageCraft - Editorial design and layout demonstration hub showcasing modern React 19 patterns with Vite 6 and Tailwind CSS v4.",
   "type": "module",
   "scripts": {
+    "production": "npm run build && npm start",
     "lint": "eslint .",
     "dev": "vite",
     "build": "tsc && vite build",
