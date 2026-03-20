@@ -8,7 +8,7 @@
     "production": "npm run build && npm start",
     "lint": "eslint .",
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "type-check": "tsc --noEmit",
     "lint:fix": "eslint . --fix",
@@ -16,7 +16,8 @@
     "format:check": "prettier --check .",
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",
-    "test:ui": "vitest --ui"
+    "test:ui": "vitest --ui",
+    "typecheck": "tsc && vite build"
   },
   "keywords": [
     "editorial-design",
@@ -60,7 +61,6 @@
     "typescript-eslint": "^8.53.1",
     "vite": "^6.4.1",
     "vitest": "^4.0.18",
-    "": "testing-library/jest-dom",
     "prettier": "^3"
   }
 }
